@@ -117,7 +117,7 @@ Using ensemble learning, the **BI-RADS classification accuracy increased from 82
 
 ## 🧠 Code Structure & Implementation
 
-structured as follows:
+Structured as follows:
 
 ### 🔹 Training Workflow
 - GPU configuration and memory optimization  
