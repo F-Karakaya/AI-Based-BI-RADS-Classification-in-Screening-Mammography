@@ -117,7 +117,7 @@ Using ensemble learning, the **BI-RADS classification accuracy increased from 82
 
 ## 🧠 Code Structure & Implementation
 
-Although this repository contains a `.py` script for reference, the **actual GitHub implementation is notebook-based (`.ipynb`)**, structured as follows:
+Structured as follows:
 
 ### 🔹 Training Workflow
 - GPU configuration and memory optimization  
